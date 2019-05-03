@@ -153,7 +153,7 @@ var config = {
 If you find this dashboard useful, please consider donating some bitcoins:
 
 * Alexander Zschach, `1MzFr1eKzLEC1tuoZ7URMB7WWBMgHKimKe`
-* Justin Ramos, `***REMOVED***`
+* Justin Ramos, `18HFFqZv2KJMHPNwPes839PJd5GZc4cT3U`
 
 ## License
 
