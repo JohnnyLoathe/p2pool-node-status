@@ -1,7 +1,7 @@
 var config = {
   // specify your personal payment addresses
   myself : [
-    "***REMOVED***"
+    "1Fi7YbpTYjHynUqbh1vwPcAqAqwQzeC1gw"
   ],
 
   // specify a name for this node
@@ -26,5 +26,5 @@ var config = {
   ad_url :     "",
 
   // address for donations
-  donation_address : "***REMOVED***"
+  donation_address : "1Fi7YbpTYjHynUqbh1vwPcAqAqwQzeC1gw"
 }
