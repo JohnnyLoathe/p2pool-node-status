@@ -39,7 +39,7 @@ If you want your miner address highlighted, adjust `myself` variable accordingly
 ``` JavaScript
 var config = {
   myself : [
-    "***REMOVED***"
+    "1Fi7YbpTYjHynUqbh1vwPcAqAqwQzeC1gw"
   ],
   node_name : '',
   reload_interval : 60,
