@@ -496,7 +496,7 @@ var fetchBlocks= function() {
       if(data) recent_blocks= data;
       $(document).trigger('update_blocks');
     });
-    $.getJSON('/web/my_share_hashes', function(data) {
+    $.getJSON('/web/my_share_hashes50', function(data) {
       if(data) recent_shares= data;
       $(document).trigger('update_shares');
     });

@@ -25,6 +25,9 @@
     <script src="js/util.js"></script>
     <script src="js/charts.js"></script>
 
+    <script src="js/highcharts.js"></script>
+    <script src="js/exporting.js"></script>
+
     <script src="js/config.json"></script>
     <script src="js/init.js"></script>
 
@@ -59,9 +62,7 @@
       <div id='node_alerts' class="alert alert-warning hidden"></div>
 
       <h3>Hashrate</h3>
-      <div>
-        <svg id="local"></svg>
-      </div>
+      <div id='chart'></div>
 
       <div style="width: 100%; text-align: right">
         <a href="#" onclick="return updateGraph();"><img src="img/reload.png"/> Refresh graph</a> &nbsp;|&nbsp;

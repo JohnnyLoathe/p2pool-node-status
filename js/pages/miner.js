@@ -124,7 +124,7 @@ function loadMinerTransactions() {
 }
 
 function loadRecentShares() {
-  $.getJSON('/web/my_share_hashes', function(data) {
+  $.getJSON('/web/my_share_hashes50', function(data) {
     recent_shares = data;
 
     $.each(recent_shares, function(key, share_hash) {
